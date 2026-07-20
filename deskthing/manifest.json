@@ -1,0 +1,20 @@
+{
+  "id": "conansjh20-firstapp",
+  "label": "lyricthings",
+  "isWebApp": true,
+  "main": "server/index.ts",
+  "tags": [],
+  "requires": [],
+  "version": "0.11.5",
+  "requiredVersions": {
+    "server": ">=0.11.0",
+    "client": ">=0.11.2"
+  },
+  "description": "lyrics to see",
+  "author": "conansjh20",
+  "platforms": ["windows", "mac", "linux"],
+  "repository": "",
+  "homepage": "",
+  "updateUrl": "",
+  "template": "full"
+}
